@@ -22,8 +22,8 @@ This sample is exemplify how to use Trinsic capabilities to build a passwordless
 
 ```sh
 # 1. Clone repo
-git clone https://github.com/trinsic-id/login-reference-app.git
-cd login-reference-app
+git clone https://github.com/lucasamonrc/ssi-login.git
+cd ssi-login
 
 # 2. Install dependencies
 npm i
